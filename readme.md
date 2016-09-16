@@ -15,6 +15,9 @@
 * [竞技机型1](aircraft/模型/竞技机型1/竞技机型1.md)
 * [竞技机型2](aircraft/模型/竞技机型2/竞技机型2.md)
 * [竞技机型3](aircraft/模型/竞技机型3/竞技机型3.md)
+* [F-16](aircraft/模型/F16/F16.md)
+* [F-18](aircraft/模型/F18/F18.md)
+* [MU-2](aircraft/模型/MU2/MU2.md)
 * [金翅雀号弹射模型飞机制作图](aircraft/模型/20.jpg)
 
 
