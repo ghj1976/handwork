@@ -5,3 +5,5 @@
 * [模型飞机的空气动力学](https://sites.google.com/site/aircraftdynamics/)
 
 
+* [模型中国论坛](http://bbs.mx3g.com/)
+
