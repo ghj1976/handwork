@@ -7,3 +7,12 @@
 
 * [模型中国论坛](http://bbs.mx3g.com/)
 
+* <http://bbs.5imx.com/>
+
+
+* <http://4hmodel.com/>    
+<http://4hmodel.com/forum.php>
+
+* <http://www.51hanghai.com/>
+
+* <http://www.tech-domain.com/forum-35-8.html>
