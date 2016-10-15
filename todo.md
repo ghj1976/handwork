@@ -5,7 +5,7 @@
 * [螺旋桨制作](http://www.tech-domain.com/thread-76526-1-1.html)
 * [风车风向仪制作程序图解](http://www.tech-domain.com/thread-993-1-1.html)
 * [风车製作步骤](http://www.tech-domain.com/thread-992-1-1.html)
-* 
+* [模型图纸精华导航](http://www.tech-domain.com/thread-7018-1-1.html)
 
 * [模型飞机图纸及制作(模型论坛) ](http://www.tech-domain.com/forum-3-1.html)
 * [模型飞机的空气动力学](https://sites.google.com/site/aircraftdynamics/)
