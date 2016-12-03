@@ -1,5 +1,7 @@
 准备收集的资料来源：
 
+* [终极入魔指引 从零开始玩航模](http://www.hangmow.com/thread-5-1-1.html)
+
 * <http://www.tech-domain.com/thread-28108-1-1.html>
 * [竹蜻蜓制作](http://www.tech-domain.com/thread-1160-1-9.html)
 * [螺旋桨制作](http://www.tech-domain.com/thread-76526-1-1.html)
