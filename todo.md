@@ -1,5 +1,7 @@
 准备收集的资料来源：
 
+* <http://www.zhake100.com/SchoolDown_50_tupage_2.html#zuijintu>
+
 *  <http://www.360doc.cn/article/1204156_254253331.html>
 *  
 * [终极入魔指引 从零开始玩航模](http://www.hangmow.com/thread-5-1-1.html)
