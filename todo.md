@@ -1,5 +1,7 @@
 准备收集的资料来源：
 
+* <http://bbs.5imx.com/forum.php?mod=forumdisplay&fid=116&page=2>
+
 * <http://www.zhake100.com/SchoolDown_50_tupage_2.html#zuijintu>
 
 *  <http://www.360doc.cn/article/1204156_254253331.html>
